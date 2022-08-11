@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Mauricio Mandujano Manriquez"
 description              : #"PhD researcher at the ARENA Centre for European Studies at UiO."
 url                      : "https://mauriciomm7.github.io"
-baseurl                  : "/mauriciomm7.github.io"
+baseurl                  : #"/mauriciomm7.github.io"
 repository               : "mauriciomm7/mauriciomm7.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/jameswebb.jpeg"
