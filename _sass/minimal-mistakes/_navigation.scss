@@ -270,7 +270,7 @@
     background: $background-color;
     -webkit-box-shadow: 0 2px 4px 0 rgba(#000, 0.16),
       0 2px 10px 0 rgba(#000, 0.12);
-    box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
+    box-shadow: 0 3px 4px 0 rgba(#000, 0.90), 0 2px 10px 0 rgba(#000, 0.12);
 
     &.hidden {
       display: none;
@@ -384,7 +384,7 @@
       &:hover {
         color: #fff;
         border-color: $gray;
-        background-color: mix(white, #000, 20%);
+        background-color: mix(white, #000, 0%);
 
         &:before,
         &:after {

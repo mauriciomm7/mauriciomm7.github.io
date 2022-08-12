@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "About"
-    url: 
+    url: /about/
   - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Teaching"
-    url: /year-archive/
-  - title: "CV"
-    url: /Website/assets/files/cv_mmm_2022.pdf
+    url: /publication/
+  - title: "Posts"
+    url: /posts/
   - title: "Courses"
-    url: /sitemap/
+    url: /courses/
+  - title: "CV"
+    url: /assets/files/cv_mmm_2022.pdf
   - title: "Contact"
-    url: /sitemap/
+    url: /contact/
