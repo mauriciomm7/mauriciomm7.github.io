@@ -1,5 +1,5 @@
 ---
-title: "I, in a Nutshell"
+title: "I — in a Nutshell"
 layout: archive
 author_profile: true
 permalink: /about/
