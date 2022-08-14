@@ -122,15 +122,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mauriciomm7"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mauriciomm7.github.io"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/mandujanomm7/"
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-2538-3410"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://mauriciomm7.github.io"
 
 
 

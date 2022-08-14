@@ -13,12 +13,12 @@ Mandujano Manriquez, M. 2022. “J.S. Mill’s Hoop Test: Compatibility of Machi
 [Working Paper] 
 
 Mandujano Manriquez, M. 2022.“Political Gains by Judicial Means: Institutional Conversion of the EU's Rule of Law Policy.” Presented at Spring School ‘Law and Power’ 19-21 April 2022 in Oxford.\
-[Forthcoming through [BACES](https://www.upf.edu/web/baces/baces-working-papers)]
- 
+[[Abstract](/assets/files/mmm_politicalgainsbyjudicialmeans_2022.pdf)][Forthcoming through [BACES](https://www.upf.edu/web/baces/baces-working-papers)] 
+
 ### Not-Peer Reviewed
 Mandujano Manriquez, M. 2019. “New World Leadership: Jacinda Ardern Through the Leadership Trait Analysis Framework (LTA).” Foreign Policy Analysis. ITESM.
 ⇒ Top 4% most read.\
-[[paper](https://mauriciommcom.files.wordpress.com/2022/04/mandujano-manriquez-m.-2019.-new-world-leadership-jacinda-ardern-through-hermanns-lta-framwork.-foreign-policy-analysis.pdf)] [[replication data](/assets/files/jacinda-ardern-lta-general.xlsx)] [[publication](https://www.academia.edu/39164271/New_World_Leadership_Jacinda_Ardern_Through_the_Leadership_Trait_Analysis?source=swp_share)]
+[[paper](/assets/files/mmm_lta-JacindaArdern_2019.pdf)] [[replication data](/assets/files/jacinda-ardern-lta-general.xlsx)] [[publication](https://www.academia.edu/39164271/New_World_Leadership_Jacinda_Ardern_Through_the_Leadership_Trait_Analysis?source=swp_share)]
 
 #### Other Output
 - (31 March 2022). The ‘Science of Democracy’ demands scientific thinking. The Loop: ECPR.\
