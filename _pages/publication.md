@@ -13,7 +13,7 @@ Mandujano Manriquez, M. 2022. “J.S. Mill’s Hoop Test: Compatibility of Machi
 [Working Paper] 
 
 Mandujano Manriquez, M. 2022.“Political Gains by Judicial Means: Institutional Conversion of the EU's Rule of Law Policy.” Presented at Spring School ‘Law and Power’ 19-21 April 2022 in Oxford.\
-[[Abstract](/assets/files/mmm_politicalgainsbyjudicialmeans_2022.pdf)][Forthcoming through [BACES](https://www.upf.edu/web/baces/baces-working-papers)] 
+[[Abstract](/assets/files/mmm_politicalgainsbyjudicialmeans_2022.pdf)] [Forthcoming through [BACES](https://www.upf.edu/web/baces/baces-working-papers)] 
 
 ### Not-Peer Reviewed
 Mandujano Manriquez, M. 2019. “New World Leadership: Jacinda Ardern Through the Leadership Trait Analysis Framework (LTA).” Foreign Policy Analysis. ITESM.
