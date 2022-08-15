@@ -19,4 +19,4 @@ spotifypodcast: 6OqTZLmQ3ltuWtRv3AKjt6
 ### Podcasts 
 An *European Waves* production: In this international episode, Mauricio Mandujano Manriquez, Jonah Zijlma and Greta Scott discuss the EU rule of law crisis. With the pleasure of interving  Tom Theuns, Assistant Professor of Political Theory and European Politics at Leiden University and an Associate Researcher at Sciences Po Paris, on the EU's response to the undemocratic and illiberal practices of Hungary and Poland. What is the future of Hungary and Poland in the EU, and what can and should the EU do to rein in its most problematic Member States?
 {% include spotifypodcast.html id=page.spotifypodcast %}
-[@TomTheuns](https://twitter.com/TomTheuns) [@gretascott13](https://twitter.com/gretascott13)
+**Follow:** [@TomTheuns](https://twitter.com/TomTheuns) [@gretascott13](https://twitter.com/gretascott13)
