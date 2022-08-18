@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Selected
-Mandujano Manriquez, M. 2022. Fact-insensitiveness and electoral alignment in WEIRD Societies, MA diss., Leiden University.\
+Mandujano Manriquez, M. 2022. Fact-insensitiveness and Electoral Alignment Across WEIRD Societies, MA diss., Leiden University.\
 [Forthcoming publication]
 
 Mandujano Manriquez, M. 2022. “J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies.”\
