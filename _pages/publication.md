@@ -7,7 +7,7 @@ author_profile: true
 
 ### Selected
 Mandujano Manriquez, M. 2022. Fact-insensitiveness and Electoral Alignment Across WEIRD Societies, MA diss., Leiden University.\
-[[Dissertation](\assets\files\mmm_electoralaligment-weirdsocieties_2022.pdf)] [Forthcoming Leiden University Repository]
+[[Dissertation](\assets\files\mmm_electoralaligment-weirdsocieties_2022.pdf)] [Forthcoming Leiden University Repository][^1].
 
 Mandujano Manriquez, M. 2022. “J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies.”\
 [Working Paper] 
@@ -27,3 +27,5 @@ Mandujano Manriquez, M. 2019. “New World Leadership: Jacinda Ardern Through th
 [[blog entry](https://www.europeanwaves.com/beyond-europe/where-has-the-sovereign-gone-human-security-and-the-entrenchment-of-state-power/)] [[podcast](https://open.spotify.com/episode/3aCgBBvsN3b9ipZwmbIeOJ?si=FgPEfQveQ9i44qnsxhd5Ng)]
 - (17 October 2021). Article 19 (1) TEU: A new route for protecting the Rule of Law. European Waves.\
 [[blog entry](https://www.europeanwaves.com/on-the-continent/article-19-1-tfeu-a-new-route-for-protecting-the-rule-of-law/)] [[podcast](https://open.spotify.com/episode/1ZeeL7pWIomEdBHywGue1G?si=9pQ3YIMeRRGt5ifbKMTBeA)]
+
+[^1] The repository version differs from the one found here, scince I incorporated out of scope sections for personal purposes that were not requested by the University (such as code and and Abstract). 
