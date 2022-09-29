@@ -8,8 +8,8 @@ spotifypodcast: 6OqTZLmQ3ltuWtRv3AKjt6
 
 ### Conference Presentations 
 
-<!-- #### J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies.
-* [*DigDemLab*](https://digdemlab.io/event/wk2022.html)*, Digital Society Initiative, University of Zurich, October 27th & 28th, 2022.* -->
+#### J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies.
+* [*DigDemLab*](https://digdemlab.io/event/wk2022.html)*, Digital Society Initiative, University of Zurich, October 27th & 28th, 2022.*
 
 ##### Political Gains by Judicial Means: Institutional Conversion of the EU’s Rule of Law Policy
 * [*Judges Under Stress*](https://www.jus.uio.no/ifp/english/research/projects/jus/events/20221118.html)*, Faculty of Law, University of Oslo, November 17th & 18th 2022.*
