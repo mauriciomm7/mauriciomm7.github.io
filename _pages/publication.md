@@ -28,4 +28,4 @@ Mandujano Manriquez, M. 2019. “New World Leadership: Jacinda Ardern Through th
 - (17 October 2021). Article 19 (1) TEU: A new route for protecting the Rule of Law. European Waves.\
 [[blog entry](https://www.europeanwaves.com/on-the-continent/article-19-1-tfeu-a-new-route-for-protecting-the-rule-of-law/)] [[podcast](https://open.spotify.com/episode/1ZeeL7pWIomEdBHywGue1G?si=9pQ3YIMeRRGt5ifbKMTBeA)]
 
-[^1] The repository version differs from the one found here, scince I incorporated out of scope sections for personal purposes that were not requested by the University (such as code and and Abstract). 
+[^1]: The repository version differs from the one found here, scince I incorporated out of scope sections for personal purposes that were not requested by the University (such as code and and Abstract). 
