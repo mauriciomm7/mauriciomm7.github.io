@@ -1,4 +1,4 @@
-#TODO List
+# TODO List
 - [ ] ADD SECTION on (akin to docs)
 - [ ] RESEARCH Website Sections:
 	-	[ ] Bayesian v Frequentist Theorizing (Think 3B1B)
