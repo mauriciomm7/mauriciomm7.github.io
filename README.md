@@ -1,9 +1,12 @@
 # TODO List
-- [ ] ADD SECTION on (akin to docs)
+- [ ] ADD SECTION on (akin to docs) 
+- [ ] ADD file to /layout/ that contains bookdown that ressembles doc.
+
 - [ ] RESEARCH Website Sections:
 	-	[ ] Bayesian v Frequentist Theorizing (Think 3B1B)
 	-	[ ] Implications from Higher Level Units (Think of MA)
-	-	[ ] Combinatronics, Permutations and Combinations.
+	-	[ ] Combinatronics, Permutations and Combinations
+	-	[ ] Diff mindsets causal inference and statistical analysis.
 
 ## To execute this website run the following command on the TERMINAL
 bundle install
