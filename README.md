@@ -7,7 +7,7 @@
 	-	[ ] Implications from Higher Level Units (Think of MA)
 	-	[ ] Combinatronics, Permutations and Combinations
 	-	[ ] Diff mindsets causal inference and statistical analysis.
- -	[ ] Scope of Inference in Social Science Research
+  -	[ ] Scope of Inference in Social Science Research
 
 ## To execute this website run the following command on the TERMINAL
 bundle install
