@@ -25,7 +25,11 @@ As for data science, I aim to build breaches between empirical research on democ
 #### Professional Memberships 
 • _American Political Science Association_\\
 • _European Consortium for Political Research_\\
+•_Law and Society Association_\\
 • _Europeaum Alumni_
+
+#### Service
+ • _Journal of European Public Policy_, Reviewer 2023 – Present. 
 <!-- My academic CV: [Academic CV](/assets/files/cv_mmm_2022.pdf) -->
 
 [<img  align="right" width="200" height="200" src="/assets/images/button_download.png">](/assets/files/cv_mmm_2022.pdf)
