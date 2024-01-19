@@ -25,7 +25,7 @@ As for data science, I aim to build breaches between empirical research on democ
 #### Professional Memberships 
 • _American Political Science Association_\\
 • _European Consortium for Political Research_\\
-•_Law and Society Association_\\
+• _Law and Society Association_\\
 • _Europeaum Alumni_
 
 #### Service
