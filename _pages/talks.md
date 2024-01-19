@@ -9,13 +9,11 @@ spotifypodcast: 6OqTZLmQ3ltuWtRv3AKjt6
 ### Conference Presentations 
 
 
-### Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution. Co-author with Tom Pavone. 
+##### Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution. Co-author with Tom Pavone. 
 
 * [ENROL Advisory Board Meeting](https://www.sv.uio.no/arena/english/research/projects/enrol/index.html)
 
-
-
-#### J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies.
+##### J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies.
 * [*DigDemLab*](https://digdemlab.io/event/wk2022.html)*, Digital Society Initiative, University of Zurich, October 27th & 28th, 2022.*
 
 ##### Political Gains by Judicial Means: Institutional Conversion of the EU’s Rule of Law Policy
