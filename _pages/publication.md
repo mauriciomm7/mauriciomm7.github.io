@@ -10,9 +10,7 @@ Mandujano Manriquez, M and Pavone, T. 2023. "Follow the Leader The European Comm
 
 Mandujano Manriquez, M. 2022. “J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies.”
 
-
 ### Selected
-
 Mandujano Manriquez, M. 2022. Fact-insensitiveness and Electoral Alignment Across WEIRD Societies, MA diss., Leiden University.
 [[Dissertation](\assets\files\mmm_electoralaligment-weirdsocieties_2022.pdf)] [^1].
 
