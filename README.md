@@ -10,9 +10,10 @@
   -	[ ] Scope of Inference in Social Science Research
 
 ## To execute this website run the following command on the TERMINAL
+
+```
 bundle install
 gem install bundler
 bundle exec jekyll build
-bundle exec jekyll serve
-
-
+bundle exec jekyll serve 
+```
