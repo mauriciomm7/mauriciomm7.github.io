@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Working Papers
 
-Mandujano Manriquez, M and Pavone, T. 2023. "Follow the Leader The European Commission, the European Court of Justice, and the EU's Rule of Law Revolution"
+Mandujano Manriquez, M and Pavone, T. 2023. "Follow the Leader The European Commission, the European Court of Justice, and the EU's Rule of Law Revolution" Forthcoming in JEPP.
 
 Mandujano Manriquez, M. 2022. “J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies.”
 
