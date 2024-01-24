@@ -8,7 +8,7 @@
 	-	[ ] Combinatronics, Permutations and Combinations
 	-	[ ] Diff mindsets causal inference and statistical analysis.
   -	[ ] Scope of Inference in Social Science Research
-
+- [ ] FIX Twitter Follow buttom
 ## To execute this website run the following command on the TERMINAL
 
 ```

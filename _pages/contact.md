@@ -16,4 +16,5 @@ permalink: /contact/
 
 **UiO Political Science:** Doctoral Research Fellow, [ARENA Centre for European Studies](https://www.sv.uio.no/arena/english/people/aca/mauricmm/index.html)
 
-<a href="https://twitter.com/twitter?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- 
+<a href="https://twitter.com/twitter?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
