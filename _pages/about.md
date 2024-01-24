@@ -34,6 +34,6 @@ As for data science, I aim to build breaches between empirical research on democ
 
 [<img  align="right" width="200" height="200" src="/assets/images/button_download_new.png">](/assets/files/cv_mmm_2022.pdf)
 
-
+</br>
 _Last update:January 19th 2024_
 
