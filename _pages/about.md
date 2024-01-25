@@ -32,7 +32,7 @@ As for data science, I aim to build breaches between empirical research on democ
  • _Journal of European Public Policy_, Reviewer 2023 – Present. 
 <!-- My academic CV: [Academic CV](/assets/files/cv_mmm_2022.pdf) -->
 
-[<img  align="right" width="200" height="200" src="/assets/images/button_download_neon2.png">](/assets/files/cv_mmm_2022.pdf)
+[<img  align="right" width="200" height="200" src="/assets/images/button_download_neon.png">](/assets/files/cv_mmm_2022.pdf)
 
 _Last update: January 24th 2024_
 
