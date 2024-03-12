@@ -13,9 +13,6 @@
 #- name: Jekyll Deploy Action
 #  uses: jeffreytse/jekyll-deploy-action@v0.5.1
 #remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #cleartheme: "jekyll-theme-minimal-mistakes"
 minimal_mistakes_skin : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -232,7 +229,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 
 #Plugins (previously gems:)
