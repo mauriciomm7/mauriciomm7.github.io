@@ -10,19 +10,13 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#- name: Jekyll Deploy Action
-#  uses: jeffreytse/jekyll-deploy-action@v0.5.1
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-#cleartheme: "jekyll-theme-minimal-mistakes"
 minimal_mistakes_skin : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Mauricio M. M."
-title_separator          : "- "
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mauricio Mandujano Manriquez"
 description              : #"PhD researcher at the ARENA Centre for European Studies at UiO."
