@@ -10,6 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+- name: Jekyll Deploy Action
+  uses: jeffreytse/jekyll-deploy-action@v0.5.1
+            
 
 remote_theme : "mmistakes/minimal-mistakes@4.24.0"
 #theme: "jekyll-theme-minimal-mistakes"
