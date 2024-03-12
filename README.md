@@ -9,6 +9,10 @@
 	-	[ ] Diff mindsets causal inference and statistical analysis.
   -	[ ] Scope of Inference in Social Science Research
 - [ ] FIX Twitter Follow buttom
+- Fix 404 not found java script
+
+## Done
+- [X] Fixed Remote Theme istallation
 ## To execute this website run the following command on the TERMINAL
 
 ```
