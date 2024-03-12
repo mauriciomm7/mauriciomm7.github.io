@@ -5,5 +5,6 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "webrick", "~> 1.7"
 gem 'jekyll-sitemap'
-gem 'jekyll-spaceship', group: :jekyll_plugins
+#gem 'jekyll-spaceship', group: :jekyll_plugins
 gem "jekyll-remote-theme"
+gem 'faraday_middleware', '~> 1.0'
