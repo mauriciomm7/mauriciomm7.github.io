@@ -12,11 +12,9 @@
 
 #- name: Jekyll Deploy Action
 #  uses: jeffreytse/jekyll-deploy-action@v0.5.1
-            
-
-#remote_theme : "mmistakes/minimal-mistakes@4.24.0"
-cleartheme: "jekyll-theme-minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#cleartheme: "jekyll-theme-minimal-mistakes"
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
