@@ -15,7 +15,7 @@ Mandujano Manriquez, M. 2022. “J.S. Mill’s Hoop Test: Compatibility of Machi
 ### Selected
 Mandujano Manriquez, M. 2022. Fact-insensitiveness and Electoral Alignment Across WEIRD Societies, MA diss., Leiden University.
 [[Dissertation](\assets\files\mmm_electoralaligment-weirdsocieties_2022.pdf)] 
-[[Codebook]](/workspaces/mauriciomm7.github.io/assets/files/mmm_electoralaligment_weirdsocieties_2022_codebook.pdf) [^1].
+[[Codebook]](/assets/files/mmm_electoralaligment_weirdsocieties_2022_codebook.pdf) [^1].
 
 
 Mandujano Manriquez, M. 2022.“Political Gains by Judicial Means: Institutional Conversion of the EU's Rule of Law Policy.” Presented at Spring School ‘Law and Power’ 19-21 April 2022 in Oxford.
