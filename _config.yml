@@ -14,7 +14,7 @@
 #  uses: jeffreytse/jekyll-deploy-action@v0.5.1
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #cleartheme: "jekyll-theme-minimal-mistakes"
-minimal_mistakes_skin: "dark" 
+minimal_mistakes_skin: "contrast" 
 # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
