@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Peer Reviewed
 
-Mandujano Manriquez, M and Pavone, T. 2023. "Follow the Leader The European Commission, the European Court of Justice, and the EU's Rule of Law Revolution" Forthcoming in Journal of European Public Policy.
+Mandujano Manriquez, M and Pavone, T. 2023. "Follow the Leader The European Commission, the European Court of Justice, and the EU's Rule of Law Revolution" In Journal of European Public Policy. [Article](https://doi.org/10.1080/13501763.2024.2336125) [Supplementary](https://www.tandfonline.com/doi/suppl/10.1080/13501763.2024.2336125?scroll=top) [Replication Data]()
 
 ### Working Papers
 
