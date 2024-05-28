@@ -5,7 +5,7 @@
 - [ ] RESEARCH Website Sections:
 	-	[ ] Bayesian v Frequentist Theorizing (Think 3B1B)
 	-	[ ] Implications from Higher Level Units (Think of MA)
-	-	[ ] Combinatronics, Permutations and Combinations
+	-	[ ] Combinatorics, Permutations and Combinations
 	-	[ ] Diff mindsets causal inference and statistical analysis.
   -	[ ] Scope of Inference in Social Science Research
 - [ ] FIX Twitter Follow buttom
