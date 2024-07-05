@@ -1,6 +1,8 @@
 # TODO List
+
 - [ ] ADD SECTION on (akin to docs) 
 - [ ] ADD file to /layout/ that contains bookdown that ressembles doc.
+- [ ] ADD Twitter Follow buttom
 
 - [ ] RESEARCH Website Sections:
 	-	[ ] Bayesian v Frequentist Theorizing (Think 3B1B)
@@ -8,7 +10,9 @@
 	-	[ ] Combinatorics, Permutations and Combinations
 	-	[ ] Diff mindsets causal inference and statistical analysis.
   -	[ ] Scope of Inference in Social Science Research
-- [ ] FIX Twitter Follow buttom
+  
+- [X] FIX Major bug for deployment
+
 ## To execute this website run the following command on the TERMINAL
 
 ```
