@@ -16,23 +16,41 @@ Lastly, I am a regular commentator on European and International Affairs for ven
 
 I am a Doctoral Research Fellow at [ARENA Centre for European Studies](https://www.sv.uio.no/arena/english/) of the [University of Oslo](https://www.uio.no/english/). My research focuses on the interaction between the Court of Justice of the European Union (CJEU) and the European Commission in relation to the violations of the rule of law and the core principles of EU membership. Specifically, it investigates the rationale behind the mercurial deployment of tools by the EU in response to rule of law breaches in Hungary and Poland after 2010. This research is situated within the purview of WP2 of the ENROL project. 
 
-I graduated from [Leiden University](https://www.universiteitleiden.nl/en), the Netherlands, with an Erasmus Mundus Joint Masters in *European Politics and Society* and from the *[Tecnológico de Monterrey](https://tec.mx/en/about-us)*, Mexico, with a BA in International Relations. Also, I am regular commentator on European and International Affairs for venues including  *[European Waves](https://www.europeanwaves.com/eps-spotlight/)* and [the Loop: ECPR](https://theloop.ecpr.eu/) and a recurring guest lecturer at the Tecnológico de Monterrey in Mexico. 
+<!-- I graduated from [Leiden University](https://www.universiteitleiden.nl/en), the Netherlands, with an Erasmus Mundus Joint Masters in *European Politics and Society* and from the *[Tecnológico de Monterrey](https://tec.mx/en/about-us)*, Mexico, with a BA in International Relations. Also, I am regular commentator on European and International Affairs for venues including  *[European Waves](https://www.europeanwaves.com/eps-spotlight/)* and [the Loop: ECPR](https://theloop.ecpr.eu/) and a recurring guest lecturer at the Tecnológico de Monterrey in Mexico.  -->
 
 Additionally, my broader research interests comprise the evolutionary trajectories of political systems, democratic institutions, and data science. Through comparative politics, I investigate the evolutionary trajectories of political systems and their specific institutions. Particularly institutions such as courts, electoral systems, and legislatures. By leveraging insights from political theory, I develop empirically testable research designs that allow for more scientific comparisons across time and space. One fundamental question that animates my research relates to the patterns that foster and foreclose the pathways of institutional change. That is: *how do sets of institutional arrangements vary in their performance across democratic polities?*
 
 As for data science, I aim to build breaches between empirical research on democracy and novel data collection and processing techniques. Particularly, I explore the variation in the performance of democratic institutions derived from variables such as kinship, impersonal trust, or degree of market integration.
 
+#### Education 
+2022-Now | Ph.D. in Political Science, [University of Oslo](https://www.sv.uio.no/arena/english/), Norway<br>
+2020-2022 | Joint M.A. in European Politics and Society, [Leiden University](https://www.universiteitleiden.nl/en/humanities), Netherlands<br>
+2015-2019 |  B.A. in International Relations, [Tecnológico de Monterrey (ITESM)](https://tec.mx/en/about-us), Mexico<br>
+
+
+
+
+#### Training
+<!-- ECPR Methods School, Machine Learning Methods, Online, 2024 -->
+• Oxford Spring School, Causal Inference, University of Oxford, 2023 <br>
+• Komex Mathematics for Political Science, University of Konstanz, 2023 <br>
+• Europeaum Spring School on Law and Power, Oxford, 2022 <br>
+• ECPR Methods Summer School, KU Leuven, 2021<br>
+• Oxford Spring School, Qualitative Methods, University of Oxford, 2021 <br>
+
 #### Professional Memberships 
-• _American Political Science Association_\\
-• _European Consortium for Political Research_\\
-• _Law and Society Association_\\
-• _Europeaum Alumni_
+• _American Political Science Association (APSA)_\\
+• _European Consortium for Political Research(ECPR)_\\
+• _Law and Society Association(LSA)_\\
+<!-- • _Europeaum Alumni_ -->
+<!-- • _Erasmus Mundus Association_ -->
 
 #### Service
- • _Journal of European Public Policy_, Reviewer 2023 – Present. 
-<!-- My academic CV: [Academic CV](/assets/files/cv_mmm_2022.pdf) -->
+ • _Journal of European Public Policy_, Reviewer 2023 – Present.
+  <!-- • _Journal of Common Market Studies_ Reviewer 2023 – Present.   -->
+<!-- My academic CV: [Academic CV](/assets/files/cv_mmm_latest.pdf) -->
 
-[<img  align="right" width="200" height="200" src="/assets/images/button_download_neon.png">](/assets/files/cv_mmm_2022.pdf)
+[<img  align="right" width="200" height="200" src="/assets/images/button_download_neon.png">](/assets/files/cv_mmm_latest.pdf)
 
 _Last update: July 1st 2024_
 

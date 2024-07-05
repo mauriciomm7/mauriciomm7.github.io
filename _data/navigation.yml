@@ -4,13 +4,11 @@ main:
     url: /about/
   - title: "Publications"
     url: /publication/
-  - title: "Posts"
-    url: /posts/
-  - title: "Talks"
-    url: /talks/ 
-  # - title: "Courses"
-  #   url: /courses/
-  - title: "CV"
-    url: /assets/files/cv_mmm_2022.pdf
+  - title: "Outreach"
+    url: /outreach/ 
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Learning"
+    url: /learn/
   - title: "Contact"
     url: /contact/

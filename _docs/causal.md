@@ -1,7 +1,8 @@
 ---
 title: "Causal Inference for PoliSci"
-layout: single
-permalink: /courses/
+permalink: /learn/docs/causal/
+category: methods 
+author_profile: true
 ---
 
 # AIM

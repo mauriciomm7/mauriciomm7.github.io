@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Talks and Media"
-permalink: /talks/
+title: "Talks, Media, and Presentations"
+permalink: /outreach/
 author_profile: true
 spotifypodcast: 6OqTZLmQ3ltuWtRv3AKjt6
 ---
 
 ### Conference Presentations 
-
 
 ##### Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution. Co-author with Tom Pavone. 
 
