@@ -40,3 +40,14 @@ toc-location:
 title: "Boolean Networks Inference"
 ---
 ```
+
+NTS3: Github Actions is broken when running last_update.sh, try changing internal parameters in the function. 
+```
+ - name: Update commit date in HTML files
+    run: |
+      chmod +x _scripts/last_update.sh
+      ./_scripts/last_update.sh
+```
+ Also, remember to have this <span> element in pages you want it to update:
+`<span id="git-last-commit-date"></span>`
+
