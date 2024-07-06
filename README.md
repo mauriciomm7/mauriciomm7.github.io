@@ -4,7 +4,7 @@
 - [ ] ADD Twitter Follow buttom
 - [ ] CREATE code snippets file which can be called for formatting purposes similar to Latex `\commands`
 - [ ] ADD Emoticons https://fontawesome.com/v4/get-started/
-
+- [ ] ADD Contact Form: mhttps://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_pages/contact.md
 
 - [ ] RESEARCH Website Posts:
 	-	[ ] Bayesian v Frequentist Theorizing (Think 3B1B)
