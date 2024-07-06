@@ -49,8 +49,8 @@ jobs:
           JEKYLL_ENV: production
       - name: Update commit date in HTML files
         run: |
-          chmod +x scripts/last_update.sh
-          ./scripts/last_update.sh
+          chmod +x _scripts/last_update.sh
+          ./_scripts/last_update.sh
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
