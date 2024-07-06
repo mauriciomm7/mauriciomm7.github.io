@@ -51,3 +51,4 @@ NTS3: Github Actions is broken when running last_update.sh, try changing interna
  Also, remember to have this <span> element in pages you want it to update:
 `<span id="git-last-commit-date"></span>`
 
+NTS4: When  adding custom css snippets that can then be used you should add them directly to the `_custom.css` but alway make sure it is imported to the `_sass\minimal-mistakes.scss` OR `assets\css\main.scss`
