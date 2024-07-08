@@ -10,10 +10,9 @@ spotifypodcast: 6OqTZLmQ3ltuWtRv3AKjt6
 
 ##### Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution. Co-author with Tom Pavone. 
 * ECPR SGEU, Biannual Meeting, Lisbon, Portugal, June 18-20 2024.<br>
- [[Slides](assets/files/ecprsgeu2024_slides_follow.pdf)]
+ [[Slides](/assets/files/ecprsgeu2024_slides_follow.pdf)]
 * Law and Society Association, Annual Meeting, Denver, CO, June 6-9 2024.<br>
- [[Slides](assets/files/lsa2024_slides_follow.pdf)]
-
+ [[Slides](/assets/files/lsa2024_slides_follow.pdf)]
 * [ENROL Advisory Board Meeting](https://www.sv.uio.no/arena/english/research/projects/enrol/index.html)
 
 ##### J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies.
