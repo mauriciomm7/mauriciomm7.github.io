@@ -5,16 +5,16 @@
 - [ ] CREATE code snippets file which can be called for formatting purposes similar to Latex `\commands`
 - [ ] ADD Emoticons https://fontawesome.com/v4/get-started/
 - [ ] ADD Contact Form: mhttps://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_pages/contact.md
-- [ ] ADD Callouts for creating bookdown sections.
+- [ ] ADD doi to main website posts:  https://docs.rogue-scholar.org/
 
 
 - [ ] RESEARCH Website Posts:
 	-	[ ] Bayesian v Frequentist Theorizing (Think 3B1B)
- -	[ ] Logics of Inference in Social Science Research
-	-	[ ] Implications from Higher Level Units (Think of MA)
+	-	[ ] Logics of Inference in Social Science Research
+	-	[ ] Implications from Higher Level Units (Think of MA) and collapsability.
 	-	[ ] Combinatorics, Permutations and Combinations
 	-	[ ] Diff mindsets causal inference and statistical analysis.
-  
+- [X] ADD Callouts for creating bookdown sections. 
 - [X] FIXED Major bug for deployment
 - [X] FIXED Footnote size _stored under utilities_css
 
