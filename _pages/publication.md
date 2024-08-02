@@ -13,9 +13,8 @@ author_profile: true
 [[Dissertation](/assets/files/mmm_electoralaligment-weirdsocieties_2022.pdf)] [[Codebook]](/assets/files/mmm_electoralaligment_weirdsocieties_2022_codebook.pdf).[^1]
 
 ### Work in Progress
-
-1. “The Effect of New Public Management Reforms in Sub-national Judicial Mobilization.”
-2. “The making of the EU’s rule of law policy: who, when and how are driving judicial innovations in the European Court of Justice?”
+1. "Lawmaking Coordination? Explaining Referral Failure in Federated Judicial Systems."
+2. “The Effect of New Public Management Reforms in Sub-national Judicial Mobilization.”
 3. "Dragging or Rushing? Locating Constitutionalizing Innovations in the EU Caselaw".
 
 ### Open Access Pre-prints
