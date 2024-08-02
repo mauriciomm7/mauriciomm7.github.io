@@ -14,9 +14,9 @@ author_profile: true
 
 ### Work in Progress
 
+1. “Lawmaking Coordination? Explaining Referral Failure in Federated Judicial Systems”
 1. “The Effect of New Public Management Reforms in Sub-national Judicial Mobilization.”
-2. “The making of the EU’s rule of law policy: who, when and how are driving judicial innovations in the European Court of Justice?”
-3. "Dragging or Rushing? Locating Constitutionalizing Innovations in the EU Caselaw".
+1. "Dragging or Rushing? Locating Constitutionalizing Innovations in the EU Caselaw".
 
 ### Open Access Pre-prints
 - Mandujano Manriquez, M. 2022.“Political Gains by Judicial Means: Institutional Conversion of the EU's Rule of Law Policy.” Presented at Spring School ‘Law and Power’ 19-21 April 2022 in Oxford.<br>
