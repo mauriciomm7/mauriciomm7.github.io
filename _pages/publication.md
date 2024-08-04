@@ -13,16 +13,11 @@ author_profile: true
 [[Dissertation](/assets/files/mmm_electoralaligment-weirdsocieties_2022.pdf)] [[Codebook]](/assets/files/mmm_electoralaligment_weirdsocieties_2022_codebook.pdf).[^1]
 
 ### Work in Progress
-<<<<<<< HEAD
 
-1. “Lawmaking Coordination? Explaining Referral Failure in Federated Judicial Systems”
-1. “The Effect of New Public Management Reforms in Sub-national Judicial Mobilization.”
-1. "Dragging or Rushing? Locating Constitutionalizing Innovations in the EU Caselaw".
-=======
 1. "Lawmaking Coordination? Explaining Referral Failure in Federated Judicial Systems."
 2. “The Effect of New Public Management Reforms in Sub-national Judicial Mobilization.”
 3. "Dragging or Rushing? Locating Constitutionalizing Innovations in the EU Caselaw".
->>>>>>> b2be879b2c2d1f73c1804618ef309f55e2dcb866
+
 
 ### Open Access Pre-prints
 - Mandujano Manriquez, M. 2022.“Political Gains by Judicial Means: Institutional Conversion of the EU's Rule of Law Policy.” Presented at Spring School ‘Law and Power’ 19-21 April 2022 in Oxford.<br>
