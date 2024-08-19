@@ -8,6 +8,9 @@ spotifypodcast: 6OqTZLmQ3ltuWtRv3AKjt6
 
 ### Conference Presentations 
 
+###### Lawmaking Coordination? Explaining Referral Failure in Federated Judicial Systems
+- ECPR General Conference, Dublin, Ireland, August 12-14 2024.[[Slides](/assets/files/ecprgc2024_slides_lawmaking.pdf)]
+
 ###### Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution. Co-author with Tom Pavone. 
 - ECPR SGEU, Biannual Meeting, Lisbon, Portugal, June 18-20, 2024. [[Slides](/assets/files/ecprsgeu2024_slides_follow.pdf)]
 - Law and Society Association, Annual Meeting, Denver, CO, June 6-9, 2024. [[Slides](/assets/files/lsa2024_slides_follow.pdf)]

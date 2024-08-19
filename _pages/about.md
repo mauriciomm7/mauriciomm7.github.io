@@ -20,11 +20,7 @@ In data science, I connect empirical research on democracy with advanced data co
 
 
 #### Training
-<<<<<<< HEAD
-ECPR Methods School, Machine Learning Methods, Online, 2024
-=======
 • ECPR Methods School, Machine Learning Methods, Online, 2024 <br>
->>>>>>> 22dd474cd47cc8e898bb9075e53ee34d279573c8
 • Oxford Spring School, Causal Inference, University of Oxford, 2023 <br>
 • Komex Mathematics for Political Science, University of Konstanz, 2023 <br>
 • Europeaum Spring School on Law and Power, Oxford, 2022 <br>
