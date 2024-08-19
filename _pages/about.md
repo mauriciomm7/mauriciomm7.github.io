@@ -29,9 +29,8 @@ As for data science, I aim to build bridges between empirical research on democr
 
 
 
-
 #### Training
-<!-- ECPR Methods School, Machine Learning Methods, Online, 2024 -->
+ECPR Methods School, Machine Learning Methods, Online, 2024
 • Oxford Spring School, Causal Inference, University of Oxford, 2023 <br>
 • Komex Mathematics for Political Science, University of Konstanz, 2023 <br>
 • Europeaum Spring School on Law and Power, Oxford, 2022 <br>
@@ -40,8 +39,8 @@ As for data science, I aim to build bridges between empirical research on democr
 
 #### Professional Memberships 
 • _American Political Science Association (APSA)_\\
-• _European Consortium for Political Research(ECPR)_\\
-• _Law and Society Association(LSA)_\\
+• _European Consortium for Political Research (ECPR)_\\
+• _Law and Society Association (LSA)_\\
 <!-- • _Europeaum Alumni_ -->
 <!-- • _Erasmus Mundus Association_ -->
 
