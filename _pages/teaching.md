@@ -14,9 +14,7 @@ author_profile: true
 • [STV2022 ](https://www.uio.no/studier/emner/sv/statsvitenskap/STV2022/) - Text as Data. Coding and methods assistance in R. <br>
 
 <!-- 
-## External Workshops Resources\
-🎒
-💼 
-🖥️
-🎯
-📄  -->
+## External Workshops Resources\ 🎒 💼  🖥️ 🎯📄
+[ ] CREATE External Python workshop resource
+[ ] CREATE External R workshop resource
+ -->

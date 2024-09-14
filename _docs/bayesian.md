@@ -9,6 +9,7 @@ This is an example.
 
 
 ###### References
+
 - Bailey, Michael A. 2007. “Comparable Preference Estimates across Time and Institutions for the Court, Congress, and Presidency.” American Journal of Political Science 51 (3): 433–48. https://doi.org/10.1111/j.1540-5907.2007.00260.x.
 
 
