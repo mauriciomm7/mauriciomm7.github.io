@@ -1,22 +1,25 @@
 # TODO List
-
-- [ ] UPDATE publication section
-- [ ] CREATE single-bookdown.html /layout/ that contains bookdown that ressembles doc.
+- [ ] ADD CV download to topbar.
+- [ ] UPDATE publication section. 
+- [ ] CREATE single-bookdown.html /layout/ that contains bookdown that ressembles doc.  	
 - [ ] ADD Twitter Follow buttom
-- [ ] CREATE code snippets file which can be called for formatting purposes similar to Latex `\commands`
+- [ ] CREATE single-bookdown.html /layout/ that contains bookdown that ressembles doc.
+- [ ] CREATE code snippets (.html or .css) file which can be called for formatting purposes similar to Latex `\commands`
 - [ ] ADD Emoticons https://fontawesome.com/v4/get-started/
 - [ ] ADD Contact Form: mhttps://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_pages/contact.md
+- [ ] CHANGE publications layout: use colors to visually cue, now too much bold.
 - [ ] ADD doi to main website posts:  https://docs.rogue-scholar.org/
 
 - [ ] RESEARCH Website Posts:
- 	- [ ] Bayesian v Frequentist Theorizing (Think 3B1B)
-	- [ ] Logics of Inference in Social Science Research
-	- [ ] Implications from Higher Level Units (Think of MA) and collapsability.
-	- [ ] Combinatorics, Permutations and Combinations
-	- [ ] Diff mindsets causal inference and statistical analysis.
-- [X] ADD Callouts for creating bookdown sections.
+	-	[ ] Bayesian v Frequentist Theorizing (Think 3B1B)
+	-	[ ] Logics of Inference in Social Science Research
+	-	[ ] Collapsability Implications from Higher Level Units (Think of MA) and collapsability.
+	-	[ ] Combinatorics, Permutations and Combinations
+	-	[ ] Diff mindsets causal inference and statistical analysis.
+- [X] ADD Callouts for creating bookdown sections. 
 - [X] FIXED Major bug for deployment
 - [X] FIXED Footnote size _stored under utilities_css
+- [X] UPDATED publications page. 
 
 ## To execute this website run the following command on the TERMINAL
 
