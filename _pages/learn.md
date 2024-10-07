@@ -5,10 +5,12 @@ permalink: /learn/
 title: "Learning Resources"
 ---
 <!-- 
-[ ] ADD Literature Categories "Judicial Politics", "Comparative Politics", 
+[ ] ADD Literature Categories "Judicial Politics", "Comparative Politics", "European Politics", 
 [ ] CREATE HTML Template for Methods docs
-[ ] CREATE HTML Template for Literature docs
+[ ] CREATE HTML Template for Literature docs 
+    This should be more narrative-like with hyperlinks to a #section in a page contains summaries (copy pasted from notes).
 [ ] CREATE HTML Template for Mathviz docs
+[ ] ADD page with all summaries of each paper.
 -->
 
 <div class="container">
