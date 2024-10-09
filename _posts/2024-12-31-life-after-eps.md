@@ -1,20 +1,24 @@
 ---
-title: " What’s next after EPS?"
+title: "What’s next after EPS?"
 header:
   teaser: "assets/files/academic-header.png"
+  overlay_image:  "assets/files/academic-header.png"
+  overlay_filter: rgba(0, 0, 0, 0.5)  # Optional: adds a dark overlay
 categories:
   - Academic Advice
 tags:
   - European Politics
   - Graduate Studies
-  - Advice 
+  - Advice
+date: 2022-07-07
 toc: false
 draft: false
-date: 2022-10-07
+author_profile: false
 ---
-Second-year students give insights into their plans, and (most importantly!) how they got there.[^2]
 
-From the start of the EPS Joint Masters, I knew that I wanted to stay in academia and do research full time. Yet, research is a very diverse professional path and can be traversed through many roads; there are traditional academic positions, think tanks, research fellowships, government affiliated positions, research institutes, not to mention the often concealed research positions at many International Organizations (IGOs). Notwithstanding this, for me, going for a PhD was the most attractive and cognitively stimulating prospect. Also, just as everyone else has said on this blog, after two memorable years living in three different countries I knew for a fact that I wanted to settle down for a few years.
+Second-year students give insights into their plans, and (most importantly!) how they got there.
+
+From the start of the EPS Joint Masters, I knew that I wanted to stay in academia and do research full time. Yet, research is a very diverse professional path and can be traversed through many roads; there are traditional academic positions, think tanks, research fellowships, government affiliated positions, research institutes, not to mention the often concealed research positions at many International Organizations (IGOs). Notwithstanding this, for me, going for a PhD was the most attractive and cognitively stimulating prospect. Also, just as everyone else has said on this blog, after two memorable years living in three different countries I knew for a fact that I wanted to settle down for a few years.[^2]
 
 To my delight, next month I will be joining the [ARENA Centre for European Studies](https://www.sv.uio.no/arena/english/) at the University of Oslo as a Doctoral Research Fellow. During the next four years, I will be working on WP2 of the Enforcing the Rule of Law Project (ENROL), where I’ll be diligently  investigating the rationale behind the mercurial deployment of tools by the EU in response to rule of law breaches in Hungary and Poland after 2010.
 
@@ -32,6 +36,8 @@ Some final tips:
 - Sign up to mailing lists from the academic networks you are interested in (ECPR, APSA, PolMeth, UACES)
 - Always have someone proofread your work no matter how eloquent you think you are (Thank you so much Esther)
 - Because of different academic cultures, it is very different to apply for a Ph.D. in the Anglosaxon World and Europe, choose wisely but be pragmatic.
+
+
 
 [^1]: Being non-EU is particularly challenging because you have to take into account your own personal finances visa status, starting and end dates, so plan everything well in advance.
 [^2]: This text excerpt was first published in European Waves in August 2022.
