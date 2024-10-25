@@ -10,3 +10,4 @@ gem 'jekyll-sitemap'
 #gem 'jekyll-spaceship', group: :jekyll_plugins
 gem "jekyll-remote-theme"
 gem 'wdm', '>= 0.1.0'
+gem 'font-awesome-sass'

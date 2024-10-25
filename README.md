@@ -7,6 +7,7 @@
 - [ ] CREATE single-bookdown.html /layout/ that contains bookdown that ressembles doc.
 - [ ] CREATE code snippets (.html or .css) file which can be called for formatting purposes similar to Latex `\commands`
 - [ ] ADD Emoticons https://fontawesome.com/v4/get-started/
+    - [ ] Mainly for X icon
 - [ ] ADD Contact Form: mhttps://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_pages/contact.md
 - [ ] CHANGE publications layout: use colors to visually cue, now too much bold.
 - [ ] ADD doi to main website posts:  https://docs.rogue-scholar.org/

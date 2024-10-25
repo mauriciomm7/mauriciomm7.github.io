@@ -1,7 +1,10 @@
 @charset "utf-8";
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// TESTING //
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 
 // Code below is being tested THIS CODE WORKS TO MODIFY GLOBALS
@@ -65,3 +68,4 @@ html {
 // CODE BELOW WORKS Imports Embbeding Function
 
 @import "minimal-mistakes/_spotify-embed.scss";
+
