@@ -10,7 +10,7 @@ tags:
   - European Politics
   - Graduate Studies
   - Advice
-date: 2022-08-30git st
+date: 2022-08-30
 toc: false
 draft: false
 author_profile: false

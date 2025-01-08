@@ -33,8 +33,8 @@ bundle exec jekyll build
 bundle exec jekyll serve 
 ```
 
+## Notes on Development
 
-## Notes on Development 
 NTS1: In order for you to have better versioning of workshops/courses taught,  you should create a REPO for each of these and manage iterations with branches. Then, once you have these static websites which can be made of jupyter notebooks, you can hyperlink them to sections on your website. Thus, rather than hosting and version managing courses or workshop files through your website you have greater flexibity and a contairzed env. 
 
 NSF2: When adding sections to the /learn/ component, you should add them using the following settings to ensure a docs like formatting:
@@ -62,3 +62,10 @@ NTS3: Github Actions is broken when running last_update.sh, try changing interna
 `<span id="git-last-commit-date"></span>`
 
 NTS4: When  adding custom css snippets that can then be used you should add them directly to the `_custom.css` but alway make sure it is imported to the `_sass\minimal-mistakes.scss` OR `assets\css\main.scss`
+
+
+NTS5: 
+- CHANGE footnote size: _utilities.scss  `.footnote{}` 
+- CHANGE website font size and typesetting `_variables.scss` 
+- CHANGE main body font size `_base.scss` each category.
+- CHANGE navigation font` _navigation.scss` => `.greedy-nav {`

@@ -118,9 +118,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mauriciomm7@outlook.com"
-    - label: "𝕏 (Formerly twitter)"
-      icon: "fa-brands fa-x-twitter"
-      url: "https://twitter.com/MauricioMandu7"
+    - label: "🦋Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/mauriciomm7.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mauriciomm7"
@@ -137,9 +137,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "𝕏 (Formerly twitter)"
-      icon: "fa-brands fa-x-twitter"
-      url: "https://twitter.com/MauricioMandu7"
+    - label: "🦋Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/mauriciomm7.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://github.com/mauriciomm7"

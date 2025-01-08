@@ -5,65 +5,67 @@
 // TESTING //
 @import "font-awesome-sprockets";
 @import "font-awesome";
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap');
 
 
-// Code below is being tested THIS CODE WORKS TO MODIFY GLOBALS
-/* system typefaces */
+// System typefaces
 $serif: Lora, Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+$sans-serif: "JetBrains Mono", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: "JetBrains Mono", Monaco, Consolas, "Lucida Console", monospace !default;
 
-/* sans serif typefaces */
+/* Sans-serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
 $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
-/* serif typefaces */
+/* Serif typefaces */
 $georgia: Georgia, serif !default;
 $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family           : $times !default;
-$header-font-family           : $sans-serif !default;
-$caption-font-family          : $serif !default;
+// Font family assignments
+$global-font-family           : "JetBrains Mono", sans-serif !default; // Change to JetBrains Mono for global
+$header-font-family           : $sans-serif !default; // Keep as JetBrains Mono
+$caption-font-family          : $serif !default; // You can keep this as is or change to JetBrains Mono
+
 
 /* type scale */
-$type-size-1: 2.441em !default;
-$type-size-2: 1.953em !default;
-$type-size-3: 1.563em !default;
-$type-size-4: 1.25em !default;
-$type-size-5: 1.1em !default;
-$type-size-6: 0.8em !default;
-$type-size-7: 0.8em !default;
-$type-size-8: 0.625em !default;
+$type-size-1: 2.441em !default; // Original: 
+$type-size-2: 1.953em !default; // Original: 
+$type-size-3: 1.563em !default; // Original: 
+$type-size-4: 1.25em !default; // Original: 1.25em
+$type-size-5: 1.1em !default; // Original: 1.1em
+$type-size-6: 0.8em !default; // Original: 0.8em
+$type-size-7: 0.8em !default; // Original: 0.8em
+$type-size-8: 0.625em !default; // Original: 0.625em
 
-/* headline scale */
-$h-size-1: 1.563em !default;
-$h-size-2: 1.25em !default;
-$h-size-3: 1.125em !default;
-$h-size-4: 1.0625em !default;
-$h-size-5: 1.03125em !default;
-$h-size-6: 1em !default;
+/* Headline scale */
+$h-size-1: 1.563em !default; // Original: 1.563em
+$h-size-2: 1.25em !default; // Original: 1.25em
+$h-size-3: 1.125em !default; // Original: 1.125em
+$h-size-4: 1.0625em !default; // Original: 1.0625em
+$h-size-5: 1.03125em !default; // Original: 1.03125em
+$h-size-6: 1em !default; // Original: 1em
 
-@import "minimal-mistakes";
 
 html {
-    font-size: 14px; // change to whatever
-  
-    @include breakpoint($medium) {
-      font-size: 16px; // change to whatever
-    }
-  
-    @include breakpoint($large) {
-      font-size: 18px; // change to whatever
-    }
-  
-    @include breakpoint($x-large) {
-      font-size: 20px; // change to whatever
-    }
+  font-size: 12px; // change to whatever
+  @include breakpoint($small) {
+    font-size: 12px; // change to whatever
   }
+  @include breakpoint($medium) {
+    font-size: 14px; // change to whatever
+  }
+  @include breakpoint($large) {
+    font-size: 16px; // change to whatever
+  }
+  @include breakpoint($x-large) {
+    font-size: 18px; // change to whatever
+  }
+}
+
+
 
 // CODE BELOW WORKS Imports Embbeding Function
 

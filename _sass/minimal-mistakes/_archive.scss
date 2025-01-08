@@ -447,12 +447,21 @@
     @include breakpoint($large) {
       padding-right: 0;
     }
-
     @include breakpoint($x-large) {
       padding-right: 0;
     }
+    #main {
+      font-size: $type-size-7; /* Set the font size for the main content */
+      > * { // Applies to all direct child elements of #main
+        font-size: inherit; // Inherit font size to keep original size for child elements
+      }
+    }
+    .sidebar { // Ensure the sidebar retains its original styles
+      font-size: $type-size-6; // Keep the author pane's font size unchanged or set it to a specific size
+    }
+    }
   }
-}
+
 
 /* Place inside a single layout */
 
@@ -460,4 +469,13 @@
 	.feature__wrapper {
 		display: inline-block;
 	}
+  #main {
+    font-size: $type-size-7; /* Set the font size for the main content */
+    > * { // Applies to all direct child elements of #main
+      font-size: inherit; // Inherit font size to keep original size for child elements
+    }
+  }
+  .sidebar { // Ensure the sidebar retains its original styles
+    font-size: $type-size-6; // Keep the author pane's font size unchanged or set it to a specific size
+  }
 }

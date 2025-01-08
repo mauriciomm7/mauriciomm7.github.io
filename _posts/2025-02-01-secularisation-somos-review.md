@@ -1,5 +1,5 @@
 ---
-title: "Markup: HTML Tags and Formatting"
+title: "Secularisation and The Leiden Circle by Mark Sommos"
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
@@ -18,7 +18,3 @@ draft: true
 - [ ] Cross validate notes and obsidian
 - [ ] ADD Full text 
 - [ ] POST
-
-# Secularisation and The Leiden Circle by Mark Sommos
-
-

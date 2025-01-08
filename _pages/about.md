@@ -12,27 +12,27 @@ My broader interests include the evolution of political systems, democratic inst
 
 In data science, I connect empirical research on democracy with advanced data collection and processing techniques. I explore how variations in democratic institutions are affected by factors like kinship, impersonal trust, and market integration.
 
-#### Education 
-2022-Now | Ph.D. in Political Science, [University of Oslo](https://www.sv.uio.no/arena/english/), Norway<br>
+#### Education
+2022- Now | Ph.D. in Political Science, [University of Oslo](https://www.sv.uio.no/arena/english/), Norway<br>
+2025- Now | Visiting Ph.D. student at Dept. Political Science, [University of Toronto](https://www.politics.utoronto.ca/graduate), Canada<br>
 2020-2022 | Joint M.A. in European Politics and Society, [Leiden University](https://www.universiteitleiden.nl/en/humanities), Netherlands<br>
 2015-2019 |  B.A. in International Relations, [Tecnológico de Monterrey (ITESM)](https://tec.mx/en/about-us), Mexico<br>
-
-
 
 #### Training
 • ECPR Methods School, Machine Learning Methods, Online, 2024 <br>
 • Oxford Spring School, Causal Inference, University of Oxford, 2023 <br>
 • Komex Mathematics for Political Science, University of Konstanz, 2023 <br>
 • Europeaum Spring School on Law and Power, Oxford, 2022 <br>
-• ECPR Methods Summer School, KU Leuven, 2021<br>
+• ECPR Methods Summer School, KU Leuven, 2021 <br>
 • Oxford Spring School, Qualitative Methods, University of Oxford, 2021 <br>
 
 #### Professional Memberships 
 • _American Political Science Association (APSA)_\\
 • _European Consortium for Political Research (ECPR)_\\
 • _Law and Society Association (LSA)_\\
+• _European Union Association Studies (EUSA)_\\
+• _Erasmus Mundus Association_
 <!-- • _Europeaum Alumni_ -->
-<!-- • _Erasmus Mundus Association_ -->
 
 #### Service
  • _Journal of European Public Policy_, Reviewer 2023 – Present.
@@ -41,7 +41,7 @@ In data science, I connect empirical research on democracy with advanced data co
 
 [<img  align="right" width="200" height="200" src="/assets/images/button_download_neon.png">](/assets/files/cv_mmm_latest.pdf)
 
-_Last update: July 1st 2024_
+*Last update: January 8th 2025*
 
 <!-- 
 I am soon to gradute from a Erasmus Mundus Joint Masters in *European Politics and Society* at [Leiden University](https://www.universiteitleiden.nl/en/humanities/graduate-school). I’m also a contributing author and founding member of the [*European Waves*](https://www.europeanwaves.com/eps-spotlight/) blog. My research interests comprise the evolutionary trajectories of political systems, democratic performance, and data science.
