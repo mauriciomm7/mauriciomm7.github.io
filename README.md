@@ -3,7 +3,6 @@
 - [ ] ADD CV download to topbar.
 - [ ] UPDATE publication section.
 - [ ] CREATE single-bookdown.html /layout/ that contains bookdown that ressembles doc.
-- [ ] ADD Twitter Follow buttom
 - [ ] CREATE single-bookdown.html /layout/ that contains bookdown that ressembles doc.
 - [ ] CREATE code snippets (.html or .css) file which can be called for formatting purposes similar to Latex `\commands`
 - [ ] ADD Emoticons https://fontawesome.com/v4/get-started/
@@ -22,7 +21,8 @@
 - [X] ADD Callouts for creating bookdown sections. 
 - [X] FIXED Major bug for deployment
 - [X] FIXED Footnote size _stored under utilities_css
-- [X] UPDATED publications page. 
+- [X] UPDATED publications page.
+- [X] ADD Twitter Follow buttom. Decieded not to after ELON takover.
 
 ## To execute this website run the following command on the TERMINAL
 
