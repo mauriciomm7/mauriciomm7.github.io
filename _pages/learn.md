@@ -12,6 +12,8 @@ title: "Learning Resources"
 [ ] CREATE HTML Template for Mathviz docs
 [ ] ADD page with all summaries of each paper.
 -->
+This page is work in progress, I am planning to transfer the accomulated knowedlege base from my Obsidian notes into a digestiable and systemtize format here. However, this is a long term project and will take some time.
+
 
 <div class="container">
   <h2>Methods</h2>

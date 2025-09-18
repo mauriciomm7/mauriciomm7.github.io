@@ -6,8 +6,8 @@ main:
     url: /publication/
   - title: "Outreach"
     url: /outreach/ 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Data & Tools"
+    url: /datatools/
   - title: "Learning"
     url: /learn/
   - title: "Contact"

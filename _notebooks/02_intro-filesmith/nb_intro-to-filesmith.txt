@@ -1,0 +1,92 @@
+nb_intro_to_filesmith
+
+# CREATE directory
+os.mkdir("test")
+>>>
+
+# REMOVE directory
+os.rmdir("test")
+>>>
+
+#
+os.getcwd()
+>>>'c:\\gitprojects\\uio24emc\\nbs'
+
+# CHANGE current working directory
+os.chdir()
+>>>
+
+# LIST Full path for all files
+glob.glob(f"{apps_txt_dir}\\*.txt")
+>>>['..\\raw\\appstxts\\ref_2008_0001it.txt', '..\\raw\\appstxts\\ref_2008_0002it.txt',]
+
+
+# LIST all files in cwd or provided dirpath
+os.listdir()
+>>>['.env','NB0_main.ipynb, 'NB1_scraping.ipynb']
+
+# SPLIT basepath from extension
+os.path.splitext(os.listdir()[1])
+>>>('NB0_main', '.ipynb')
+
+# CHECK if path is a file
+os.path.isfile("NB0_main.ipynb")
+>>>TRUE
+
+# CHECK if path exists
+os.path.exists("NB0_main.ipynb")
+>>>TRUE
+
+# TURN file path into absolute path
+os.path.abspath("NB0_main.ipynb")
+>>>'c:\\gitprojects\\uio24emc\\nbs\\NB0_main.ipynb'
+
+# JOIN paths into a single path
+os.path.join("figures\\", path_sufix)
+>>>
+
+# LIST all file paths using ReGeX current dir or any dir
+glob.glob("*.ipynb")
+>>>['.env','NB0_main.ipynb, 'NB1_scraping.ipynb']
+
+
+## ADD a dir to the list of directories when Python importing modules.
+sys.path.append(parent_dir)
+
+
+## Sample from a DataFrame
+df.sample(n=10,random_state=77)
+
+
+## COPY file 
+
+def execute(self):
+    for file_pair in self.file_pairs:
+      shutil.copy2(file_pair[0], file_pair[1])
+    return True
+
+
+
+A number of functions for hgh level operations on files and directories have been defined in shutil module of Python’s standard library.
+
+### COPY a file to same or new dir
+>>> shutil.copy("hello.py","newdir/")
+'newdir/hello.py'
+
+### COPY a file to same or new dir but retain metadata
+>>> shutil.copy2('person.py', 'newdir/')
+'newdir/person.py'
+
+
+### COPY a file to same dir 
+>>> shutil.copyfile('start.py', 'end.py')
+'end.py'
+
+
+### MOVES file and directories from on directory to other.
+>>> shutil.move('hello.py', 'newdir/')
+'newdir/hello.py'
+
+### COPY recursively files and subdirectories in one dir to another dir. 
+>>> shutil.copytree('dir1','dir2')
+'dir2'

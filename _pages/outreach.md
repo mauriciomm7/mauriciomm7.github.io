@@ -8,20 +8,19 @@ spotifypodcast: 6OqTZLmQ3ltuWtRv3AKjt6
 
 ## Conference Presentations
 
-- **Lawmaking Coordination? Explaining Referral Failure in Federated Judicial Systems**
-  - ECPR General Conference, Dublin, Ireland, August 12-14 2024. [[Slides](/assets/files/ecprgc2024_slides_lawmaking.pdf)]
+- APSA Annual Meeting, Vancouver, BC, Canada, September 11-14, 2025. [[Slides](/assets/files/2025apsa_slides.pdf)]
+- EUSA Annual Meeting, Philadelphia, PA, USA, May 8-10, 2025. [[Slides](/assets/files/2025eusa_slides.pdf)]
+- ECPR General Conference, Dublin, Ireland, August 12-14 2024. [[Slides](/assets/files/ecprgc2024_slides_lawmaking.pdf)]
+- Emerging Scholars Conference in Public Law, Austin, TX, March 6-7, 2025.
+- ECPR SGEU, Biannual Meeting, Lisbon, Portugal, June 18-20, 2024. [[Slides](/assets/files/ecprsgeu2024_slides_follow.pdf)]
+- Law and Society Association, Annual Meeting, Denver, CO, June 6-9, 2024. [[Slides](/assets/files/lsa2024_slides_follow.pdf)]
 
-- **Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution. Co-author with Tom Pavone.**
-  - ECPR SGEU, Biannual Meeting, Lisbon, Portugal, June 18-20, 2024. [[Slides](/assets/files/ecprsgeu2024_slides_follow.pdf)]
-  - Law and Society Association, Annual Meeting, Denver, CO, June 6-9, 2024. [[Slides](/assets/files/lsa2024_slides_follow.pdf)]
-  - [ENROL Advisory Board Meeting](https://www.sv.uio.no/arena/english/research/projects/enrol/index.html)
+## Workshop Presentations
 
-- **J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision Making in Democratic Societies**
-  - [*DigDemLab*](https://digdemlab.io/event/wk2022.html)*, Digital Society Initiative, University of Zurich, October 27th & 28th, 2022.*
-
-- **Political Gains by Judicial Means: Institutional Conversion of the EU’s Rule of Law Policy**
-  - [*Judges Under Stress*](https://www.jus.uio.no/ifp/english/research/projects/jus/events/20221118.html)*, Faculty of Law, University of Oslo, November 17th & 18th 2022.*
-  - [*Spring School–‘Law and Power’*](https://europaeum.org/report-2022-spring-school/)*, Maison Française & St Antony’s College, Oxford, April 19th & 21st 2022.*
+- *[ENROL Advisory Board Meeting](https://www.sv.uio.no/arena/english/research/projects/enrol/index.html), University of Oslo, October 5th, 2023*.
+- [*DigDemLab*](https://digdemlab.io/event/wk2022.html)*, Digital Society Initiative, University of Zurich, October 27th & 28th, 2022.*
+- [*Judges Under Stress*](https://www.jus.uio.no/ifp/english/research/projects/jus/events/20221118.html)*, Faculty of Law, University of Oslo, November 17th & 18th 2022.*
+- [*Spring School – ‘Law and Power’*](https://europaeum.org/report-2022-spring-school/)*, Maison Française & St Antony’s College, Oxford, April 19th & 21st 2022.*
 
 ## Podcasts
 

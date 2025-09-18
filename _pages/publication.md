@@ -16,14 +16,15 @@ author_profile: true
 
 **Work in Progress**  
 
-  1. "Lawmaking Coordination? Explaining Referral Failure in Federated Judicial Systems."
-  2. “The Effect of New Public Management Reforms in Sub-national Judicial Mobilization.”
-  3. "Dragging or Rushing? Locating Constitutionalizing Innovations in the EU Caselaw".
+  1. "The Apex Court’s Dilemma: Rulemaking Alignment Under Hierarchical and Political Constraints." [[Preprint](https://preprints.apsanet.org/engage/apsa/article-details/68bab061728bf9025e90e0aa)]
+  2. “In the Mood for Law: Shifting Sentiments of Legal Scholars About the EU Legal Order.” (with R. Daniel Kelemen & Tommaso Pavone). _In Progress._
+  3. “Conceptual Chimeras: Upstream Bias in Causal Inference.” _In Progress._
+  4. “The Grammar of EU Law: Linearizing Complex Legal Data Representation.” _In Progress._
 
 **Open Access Pre-prints**  
 
 - Mandujano Manriquez, M. 2022.“Political Gains by Judicial Means: Institutional Conversion of the EU's Rule of Law Policy.” Presented at Spring School ‘Law and Power’ 19-21 April 2022 in Oxford.<br>
-[[Abstract](/assets/files/mmm_politicalgainsbyjudicialmeans_2022.pdf)] [Forthcoming through [BACES](https://www.upf.edu/web/baces/baces-working-papers)]
+[[Abstract](/assets/files/mmm_politicalgainsbyjudicialmeans_2022.pdf)]
 - Mandujano Manriquez, M. 2019. “New World Leadership: Jacinda Ardern Through the Leadership Trait Analysis Framework (LTA).” Foreign Policy Analysis. ITESM. ⇒ Top 4% most read. <br> [[Paper](/assets/files/mmm_lta-JacindaArdern_2019.pdf)] [[Replication Data](/assets/files/jacinda-ardern-lta-general.xlsx)] [[Publication](https://www.academia.edu/39164271/New_World_Leadership_Jacinda_Ardern_Through_the_Leadership_Trait_Analysis?source=swp_share)]
 
 **Other Output**  
