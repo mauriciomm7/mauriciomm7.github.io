@@ -11,9 +11,9 @@ spotifypodcast: 6OqTZLmQ3ltuWtRv3AKjt6
 - APSA Annual Meeting, Vancouver, BC, Canada, September 11-14, 2025. [[Slides](/assets/files/2025apsa_slides.pdf)]
 - EUSA Annual Meeting, Philadelphia, PA, USA, May 8-10, 2025. [[Slides](/assets/files/2025eusa_slides.pdf)]
 - ECPR General Conference, Dublin, Ireland, August 12-14 2024. [[Slides](/assets/files/ecprgc2024_slides_lawmaking.pdf)]
-- Emerging Scholars Conference in Public Law, Austin, TX, March 6-7, 2025.
+- Emerging Scholars Conference in Public Law, Austin, TX, USA March 6-7, 2025.
 - ECPR SGEU, Biannual Meeting, Lisbon, Portugal, June 18-20, 2024. [[Slides](/assets/files/ecprsgeu2024_slides_follow.pdf)]
-- Law and Society Association, Annual Meeting, Denver, CO, June 6-9, 2024. [[Slides](/assets/files/lsa2024_slides_follow.pdf)]
+- Law and Society Association, Annual Meeting, Denver, CO, USA June 6-9, 2024. [[Slides](/assets/files/lsa2024_slides_follow.pdf)]
 
 ## Workshop Presentations
 

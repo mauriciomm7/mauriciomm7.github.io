@@ -7,9 +7,9 @@ permalink: /about/
 
 I am a Doctoral Research Fellow at [ARENA Centre for European Studies](https://www.sv.uio.no/arena/english/) of the [University of Oslo](https://www.uio.no/english/). My research focuses on the interaction between the Court of Justice of the European Union (CJEU) and the European Commission regarding violations of the rule of law and core EU membership principles. Specifically, I analyze the EU’s inconsistent response to rule of law breaches in Hungary and Poland since 2010, as part of the ENROL project.
 
-My broader interests include the evolution of political systems, democratic institutions, and data science. In comparative politics, I develop innovative measurement strategies to address questions about courts, electoral systems, and legislatures. By integrating insights from political theory, I create empirically testable designs for rigorous comparisons across different contexts. A central question in my research is how institutional change is influenced.
+My broader interests include comparative political institutions, causal inference, and methodological innovation. My research focuses on institutional hierarchy and decision-making processes, with established expertise in judicial politics and European integration. I develop novel measurement strategies and statistical frameworks that address conceptual limitations in existing research and enable more precise analysis of institutional behavior. A central theme in my work is how institutional settings and human psyhcological packages shape political outcomes across different contexts.
 
-In data science, I connect empirical research on democracy with advanced data collection and processing techniques. I explore how variations in democratic institutions are affected by factors like kinship, impersonal trust, and market integration.
+In data science, I connect empirical research on political institutions with advanced data collection and processing techniques. I explore how variations in institutional effectiveness are affected by factors like hierarchical relationships, legal preferences, and decision-making structures. My technical expertise spans R and Python programming, computational text analysis, and custom software development for political research.
 
 #### Education
 
@@ -32,7 +32,7 @@ At the **Univeristy of Oslo** <br>
 • Oxford Spring School, Causal Inference, University of Oxford, 2023 <br>
 • Komex Mathematics for Political Science, University of Konstanz, 2023 <br>
 • Europeaum Spring School on Law and Power, Oxford, 2022 <br>
-• ECPR Methods Summer School, KU Leuven, 2021 <br>
+• ECPR Methods Summer School, Python for Research, KU Leuven, 2021 <br>
 • Oxford Spring School, Qualitative Methods, University of Oxford, 2021 <br>
 
 #### Professional Memberships
@@ -48,7 +48,13 @@ At the **Univeristy of Oslo** <br>
 
  • _Journal of European Public Policy_, Reviewer 2023 – Present.
   <!-- • _Journal of Common Market Studies_ Reviewer 2023 – Present.   -->
-<!-- My academic CV: [Academic CV](/assets/files/cv_mmm_latest.pdf) -->
+  <!-- • _American Journal of Political Science_ Reviewer 2025 – Present.   -->
+  <!-- • _American Political Science Review_ Reviewer 2025 – Present.   -->
+  <!-- • _British Journal of Political Science_ Reviewer 2025 – Present.   -->
+  <!-- • _Journal of Politics_ Reviewer 2025 – Present.   -->
+  <!-- • _West European Politics_ Reviewer 2025 – Present.   -->
+  <!-- • _World Politics_ Reviewer 2025 – Present.   -->
+  <!-- My academic CV: [Academic CV](/assets/files/cv_mmm_latest.pdf) -->
 
 [<img  align="right" width="200" height="200" src="/assets/images/button_download_neon.png">](/assets/files/cv_mmm_latest.pdf)
 

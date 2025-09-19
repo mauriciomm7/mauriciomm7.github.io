@@ -8,7 +8,7 @@ author_profile: true
 
 ## Datasets
 
-- ROL Legal Innovations [Dataset 2010-2023](https://doi.org/10.6084/m9.figshare.25595496.v2)
+- EU ROL Legal Innovations [Dataset 2010-2023](https://doi.org/10.6084/m9.figshare.25595496.v2)
 
 ## Software
 

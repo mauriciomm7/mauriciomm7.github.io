@@ -23,8 +23,8 @@ author_profile: true
 
 **Open Access Pre-prints**  
 
-- Mandujano Manriquez, M. 2022.“Political Gains by Judicial Means: Institutional Conversion of the EU's Rule of Law Policy.” Presented at Spring School ‘Law and Power’ 19-21 April 2022 in Oxford.<br>
-[[Abstract](/assets/files/mmm_politicalgainsbyjudicialmeans_2022.pdf)]
+- Mandujano Manriquez, M. 2022.“Political Gains by Judicial Means: Institutional Conversion of the EU's Rule of Law Policy.” Presented at Spring School ‘Law and Power’ 19-21 April 2022 in Oxford.
+[[Abstract](/assets/files/mmm_politicalgainsbyjudicialmeans_2022.pdf)] <br>
 - Mandujano Manriquez, M. 2019. “New World Leadership: Jacinda Ardern Through the Leadership Trait Analysis Framework (LTA).” Foreign Policy Analysis. ITESM. ⇒ Top 4% most read. <br> [[Paper](/assets/files/mmm_lta-JacindaArdern_2019.pdf)] [[Replication Data](/assets/files/jacinda-ardern-lta-general.xlsx)] [[Publication](https://www.academia.edu/39164271/New_World_Leadership_Jacinda_Ardern_Through_the_Leadership_Trait_Analysis?source=swp_share)]
 
 **Other Output**  
