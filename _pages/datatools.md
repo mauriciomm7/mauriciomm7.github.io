@@ -12,4 +12,4 @@ author_profile: true
 
 ## Software
 
-- Text Ranking Tool: For comparative text analysis. [Public Releases](https://github.com/mauriciomm7/text_ranking_tool/tags)
+- Text Ranking Tool: For comparative text analysis. [Public Releases](https://github.com/mauriciomm7/text_ranking_tool/releases)
